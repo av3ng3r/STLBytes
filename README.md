@@ -10,16 +10,17 @@
 Star the repo and follow along!
 
 ## 🚀 Latest Slides  
-<table>
-<tr>
-<td><img src="Bytes/std_vector.png" width="300"></td>
-<td><img src="Bytes/std_map.png" width="300"></td>
-</tr>
-<tr>
-<td><img src="Bytes/std_unordered_map.png" width="300"></td>
-<td><img src="Bytes/std_deque.png" width="300"></td>
-</tr>
-</table>
+### `std::vector`
+<img src="Bytes/std_vector.png" width="450">
+
+### `std::map`
+<img src="Bytes/std_map.png" width="450">
+
+### `std::unordered_map`
+<img src="Bytes/std_unordered_map.png" width="450">
+
+### `std::deque`
+<img src="slides/04-deque.png" width="450">
 
 ---
 
