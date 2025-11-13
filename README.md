@@ -7,11 +7,23 @@
 - `/Bytes` — Final exported slides  
 
 ## 🚀 Latest Slides  
-- `std::vector`  
-- `std::map`  
-- `std::unordered_map`  
-- `std::deque`  
 
+### `std::vector`
+![std::vector](Bytes/std_vector.png)
+
+### `std::map`
+![std::map](Bytes/std_map.png)
+
+### `std::unordered_map`
+![std::unordered_map](Bytes/std_unordered_map.png)
+
+### `std::deque`
+![std::deque](Bytes/std_deque.png)
+
+---
+
+🔎 **Follow the #STLBytes hashtag for upcoming posts:**  
+https://www.linkedin.com/search/results/all/?keywords=%23stlbytes&origin=HASH_TAG_FROM_FEED
 More STL containers coming weekly.
 
 ## ⭐ Like the project?
