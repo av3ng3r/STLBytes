@@ -11,16 +11,16 @@ Star the repo and follow along!
 ## 🚀 Latest Slides  
 
 ### `std::vector`
-![std::vector](Bytes/std_vector.png)
+<img src="Bytes/std_vector.png" width="450">
 
 ### `std::map`
-![std::map](Bytes/std_map.png)
+<img src="Bytes/std_map.png" width="450">
 
 ### `std::unordered_map`
-![std::unordered_map](Bytes/std_unordered_map.png)
+<img src="Bytes/std_unordered_map.png" width="450">
 
 ### `std::deque`
-![std::deque](Bytes/std_deque.png)
+<img src="Bytes/std_deque.png" width="450">
 
 ---
 
