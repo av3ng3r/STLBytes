@@ -20,7 +20,7 @@ Star the repo and follow along!
 <img src="Bytes/std_unordered_map.png" width="450">
 
 ### `std::deque`
-<img src="slides/04-deque.png" width="450">
+<img src="Bytes/std_deque.png" width="450">
 
 ---
 
