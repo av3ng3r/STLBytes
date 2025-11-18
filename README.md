@@ -10,6 +10,9 @@
 Star the repo and follow along!
 
 ## 🚀 Latest Slides  
+### `std::list`
+<img src="Bytes/std_list.png" width="450">
+
 ### `std::vector`
 <img src="Bytes/std_vector.png" width="450">
 
