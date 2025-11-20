@@ -10,7 +10,7 @@
 Star the repo and follow along!
 
 ## 🚀 Latest Slides  
-### `std::list`
+### `std::set`
 <img src="Bytes/std_set.png" width="450">
 
 ### `std::list`
